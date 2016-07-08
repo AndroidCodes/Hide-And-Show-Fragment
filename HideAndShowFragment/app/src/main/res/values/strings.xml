@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hide And Show Fragment</string>
+
+    <string name="frag1">First Fragment</string>
+    <string name="frag2">Second Fragment</string>
+    <string name="frag3">Third Fragment</string>
+    <string name="counter">Counter</string>
+
+</resources>
